@@ -15,6 +15,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * @author 
  */
 @MapperScan("css.com.cn.dao")
+
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 @EnableEurekaClient
 @EnableFeignClients
