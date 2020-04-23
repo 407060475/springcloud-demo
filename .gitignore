@@ -1,0 +1,15 @@
+springcloud-eureka-feign-mybatis-seata/.metadata/
+*.project
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/.settings/
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/account-server/.settings/
+*.classpath
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/account-server/src/target/
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/account-server/target/
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/config-server/.settings/
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/eureka-server/.settings/
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/gateway-server/.settings/
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/storage-server/target/
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/order-server/target/
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/storage-server/.settings/
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/order-server/.settings/
+springcloud-eureka-feign-mybatis-seata/springcloud-eureka-feign-mybatis-seata/eureka-server/target/
